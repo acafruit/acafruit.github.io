@@ -1,0 +1,27 @@
+#colophon #theme-attribution, #colophon #site-info {display: none}
+#masthead.masthead-logo-in-menu .logo > img {max-height: 53px; }
+#masthead.masthead-logo-in-menu .logo { padding: 0px; }
+@media screen and (max-width: 500px) {
+.entry-content img { width: 100% !important; max-width: 100% !important; }
+}
+@media screen and (max-width: 1111px) {
+pt-cv-content { height: 100px; }
+body.responsive.layout-full #page-wrapper .full-container {margin-left: 10px; margin-right: 10px; }
+}
+@media screen and (min-width: 991px) {
+._self.pt-cv-readmore.btn.btn-success {position: absolute; bottom: 0px; margin-bottom: 22px;}
+}
+ 
+#main {padding: 0px}
+.pt-cv-ifield {min-height:330px}
+@media (max-width: 1080px){
+body.responsive #masthead.masthead-logo-in-menu .logo {
+    margin-left: 0px;
+  	margin-right: 0px;
+  }}
+
+div#n2-ss-4 .n2-style-29fe619a321c49aaf9d97344cf838bc3-heading {border-bottom: 1px solid #fff; text-shadow: 1px 1px #3a3a3a; box-shadow: 0px 1px #5d5d5d;}
+div#n2-ss-4 .n2-ss-layer .n2-font-72917a316ce8c8cb95a049042a70df00-hover {text-shadow: 1px 1px #3a3a3a;}
+div#n2-ss-4 .n2-ss-button-container a div {text-shadow: 1px 1px #3a3a3a;}
+div#n2-ss-4 .n2-ss-layer .n2-font-df31ee031043c529155c9cacd7429d0d-hover {text-shadow: 1px 1px #3a3a3a;}
+div#n2-ss-4 .n2-font-75774b5a595fadfc3656349b99c5effa-link a {box-shadow: 0px 1px #3a3a3a;}
